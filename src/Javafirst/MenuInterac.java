@@ -26,7 +26,7 @@ public class MenuInterac {
                 case 1:
                     System.out.println("What is your name?");
                     String name = in.nextLine();
-                    System.out.println("Hola.....)
+                    System.out.println("Hola.....");
 
             }
         }
